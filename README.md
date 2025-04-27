@@ -50,4 +50,4 @@ I’m a data professional focused on transforming raw data into valuable insight
 
 ---
 
-*Feel free to take a look at some of my recent projects below.*
+🔎 *Feel free to take a look at some of my recent projects below.*
